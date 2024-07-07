@@ -1,6 +1,6 @@
 <p align=center><img src="https://bonattipajuelo.com/public/images/logo_05.png" alt="Diego Bonatti" height="200"></p>
 
-<p align=center><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola,+Soy+Diego+Bonatti+%F0%9F%91%8B;Egresado+de+Ingeniería+de+Sistemas" alt="Diego Bonatti" /></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola,+Soy+Diego+Bonatti+%F0%9F%91%8B;+Ingeniero+de+Sistemas" alt="Diego Bonatti" /></p>
 <div align=center>
       <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Diego Bonatti"  /></a>
       <a href="https://wa.link/8if955" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-00FF00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Diego Bonatti" /></a>
