@@ -57,7 +57,7 @@ metodologías ágiles como ICONIX y SCRUM.</p>
 
 ## Contáctame:
 
-- 🔭 Actualmente estoy en busca de trabajo [Portfolio website]()
+- 🔭 Actualmente estoy en busca de trabajo [SISTEMA PARA CONSUMIR UNA API SUNAT -  PYTHON - DJANGO]()
 - 📫 Mi correo electrónico **bonattipajuelodiego2406@gmail.com**
 - 🌱 Mi Teléfono **941840053**
 - 👨‍💻 Sitio web https://bonattipajuelo.com
