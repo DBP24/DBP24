@@ -1,4 +1,4 @@
-<p align=center><img src="https://bonattipajuelo.com/public/images/logo_05.png" alt="Diego Bonatti" height="200"></p>
+<p align=center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmG8vip0rdxEihY4WTrZflXDa7HbQUjNSNQ&s" alt="Diego Bonatti" height="200"></p>
 
 <p align=center><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola,+Soy+Diego+Bonatti+%F0%9F%91%8B;+Ingeniero+de+Sistemas" alt="Diego Bonatti" /></p>
 <div align=center>
