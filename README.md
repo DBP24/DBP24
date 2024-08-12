@@ -57,10 +57,11 @@ metodologías ágiles como ICONIX y SCRUM.</p>
 
 ## Contáctame:
 
-- 🔭 Actualmente estoy en busca de trabajo [Generador-de-Certificados---Python]()
+- 🔭 Actualmente realizó el siguiente proyecto personal **https://github.com/DBP24/Control-de-Asistencia-por-geolocalizaci-n---Python-Django**
 - 📫 Mi correo electrónico **bonattipajuelodiego2406@gmail.com**
 - 🌱 Mi Teléfono **941840053**
 - 👨‍💻 Sitio web https://bonattipajuelo.com
+- 🔭 **Actualmente estoy en busca de trabajo**
 
 <p align=center><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" alt="Diego Bonatti" height="200"></p>
 
