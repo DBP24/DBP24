@@ -59,7 +59,7 @@ metodologías ágiles como ICONIX y SCRUM.</p>
 
 - 🔭 Actualmente realizó el siguiente proyecto personal **https://github.com/DBP24/Control-de-Asistencia-por-geolocalizaci-n---Python-Django**
 - 📫 Mi correo electrónico **bonattipajuelodiego2406@gmail.com**
-- 🌱 Mi Teléfono **941840053**
+- 🌱 Mi Teléfono **967389242**
 - 👨‍💻 Sitio web https://bonattipajuelo.com
 - 🔭 **Actualmente estoy en busca de trabajo**
 
